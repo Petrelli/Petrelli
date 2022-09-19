@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zhe Zhang
-- 👀 I’m interested in DQN
-- 🌱 I’m currently learning DQN
+- 👀 I’m interested in leveragin AI techniques to improve the performance of networks
+- 🌱 I’m currently an Assistant Professor at Nanjing University of Posts and Telecommunications
 - 💞️ I’m looking to collaborate on DCN, ICN and in-network caching
 - 📫 How to reach me zhezhang@njupt.edu.cn
 
